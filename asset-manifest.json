@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/7-wonders/static/css/main.a67a5ba4.chunk.css",
+    "main.js": "/7-wonders/static/js/main.39fc0dc7.chunk.js",
+    "main.js.map": "/7-wonders/static/js/main.39fc0dc7.chunk.js.map",
+    "runtime-main.js": "/7-wonders/static/js/runtime-main.a8a55460.js",
+    "runtime-main.js.map": "/7-wonders/static/js/runtime-main.a8a55460.js.map",
+    "static/js/2.f0c27f61.chunk.js": "/7-wonders/static/js/2.f0c27f61.chunk.js",
+    "static/js/2.f0c27f61.chunk.js.map": "/7-wonders/static/js/2.f0c27f61.chunk.js.map",
+    "index.html": "/7-wonders/index.html",
+    "precache-manifest.ca336993c45d0d67e1b5f2dac9945b2b.js": "/7-wonders/precache-manifest.ca336993c45d0d67e1b5f2dac9945b2b.js",
+    "service-worker.js": "/7-wonders/service-worker.js",
+    "static/css/main.a67a5ba4.chunk.css.map": "/7-wonders/static/css/main.a67a5ba4.chunk.css.map",
+    "static/media/coin.png": "/7-wonders/static/media/coin.c7cd32e6.png",
+    "static/media/compass.png": "/7-wonders/static/media/compass.3f50e8c9.png",
+    "static/media/gear.png": "/7-wonders/static/media/gear.42793147.png",
+    "static/media/tablet.png": "/7-wonders/static/media/tablet.6f2cc176.png"
+  }
+}
